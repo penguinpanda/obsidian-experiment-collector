@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "experiment-collector",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "自动汇总 models 下实验结果和后续任务.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
